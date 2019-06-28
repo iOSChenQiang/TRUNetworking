@@ -22,7 +22,7 @@ pod 'TRUNetworking'
 
 ## Author
 
-466170548@qq.com, chenqiang2@hyc.cn
+466170548@qq.com
 
 ## License
 
